@@ -332,6 +332,6 @@ export const MEALS = [
     true,
     true,
     true,
-    true
+    true,
   )
 ];
